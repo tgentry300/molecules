@@ -1,0 +1,18 @@
+We have made all possible combinations of rectangles.
+
+We need to figure out how to try 4 strings around rectangle.
+
+Check index of strings at height value and see if they match.
+
+Check 3 to 10 indices
+-------------------------------------------------------------------
+2 Horizontal strings, 2 vertical strings
+maximize the crosswordyness of the rectangles
+
+need intersecting letters, and maximum rectangle area
+
+set of constraints
+
+start with set square size, if it doesn't fit, discard rectangle.
+
+need list of possible size rectangles
